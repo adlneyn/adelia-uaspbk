@@ -4,7 +4,7 @@ Web ini berisikan tentang beberapa bos yang ada pada game Genshin Impact pada se
 
 # 📜 Fitur Utama
 
-# → 🌬️ Mondstadt
+## → 🌬️ Mondstadt
 Halaman ini menampilkan 5 Boss yang bisa kamu tantang di sini.
 - Stormterror Dvalin.
 - Anemo Hypostasis.
