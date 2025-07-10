@@ -1,5 +1,21 @@
-# Vue 3 + Vite
+# Bos In Teyvat
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Web ini berisikan tentang beberapa bos yang ada pada game Genshin Impact pada setiap regionya. Ini akan membantu para pemain untuk melihat bos apa saja yang ada pada region tersebut. Selain nama dan deskripsi singkat pada bosnya, ada juga gambar yang menampilkan foto dari bos yang akan dilawan.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+# Fitur Utama
+
+# Mondstadt
+Menampilkan Bos yang ada pada region ini. Ada 5 monster yang ada pada menu ini.
+# Liyue
+Menampilkan Bos yang ada pada region ini. Ada 5 monster yang ada pada menu ini.
+# Inazuma
+Menampilkan Bos yang ada pada region ini. Ada 5 monster yang ada pada menu ini.
+# Sumeru
+Menampilkan Bos yang ada pada region ini. Ada 5 monster yang ada pada menu ini.
+# Fontine
+Menampilkan Bos yang ada pada region ini. Ada 4 monster yang ada pada menu ini.
+# Natlan
+Menampilkan Bos yang ada pada region ini. Ada 3 monster yang ada pada menu ini.
+# Target Boss
+Menampilkan Bos yang sudag diberi bintang dan akan masuk pada menu ini. Ini cukup membantu agar pemain dapat mengingat bos mana yang akan mereka lawan.
+
