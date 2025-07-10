@@ -4,17 +4,44 @@ Web ini berisikan tentang beberapa bos yang ada pada game Genshin Impact pada se
 
 # 📜 Fitur Utama
 
-🌬️ Mondstadt
-Halaman ini menampilkan 5 Boss yang bisa kamu tantang di sini: Stormterror Dvalin, Anemo Hypostasis, Cryo Regisvine, Andrius (Wolf of the North), dan Frostarm Lawachurl.
-🪨 Liyue
-Halaman ini menampilkan 5 Boss yang bisa kamu hadapi di sini: Geo Hypostasis, Azhdaha, Primo Geovishap, Oceanid, dan Ruin Serpent.
-⚡ Inazuma
-Halaman ini menampilkan 5 Boss kuat yang menunggu untuk ditaklukkan: Raiden Shogun Puppet, Thunder Manifestation, Hydro Hypostasis, Maguu Kenki, dan Pyro Hypostasis.
-🌿 Sumeru
-Halaman ini menampilkan 5 Boss kuat yang bisa kamu tantang di sini: Scaramouche (The Shouki no Kami), Dendro Regisvine, Algorithm of Semi-Intransient Matrix of Overseer Network, Setekh Wenut, serta Consecrated Beast.
-💧 Fontine
-Halaman ini menampilkan 4 Boss yang siap kamu hadapi: Icewind Suite, Experimental Field Generator, Emperor of Fire and Iron, serta Armored Crab.
-🔥 Natlan
-Halaman ini menampilkan 3 Boss yang siap menantangmu: Xiuhcoatl, Gluttonous Yumkasaur Mountain King, dan Goldflame Qucusaur Tyrant.
-⭐ Target Boss
+# → 🌬️ Mondstadt
+Halaman ini menampilkan 5 Boss yang bisa kamu tantang di sini.
+- Stormterror Dvalin.
+- Anemo Hypostasis.
+- Cryo Regisvine.
+- Andrius (Wolf of the North).
+- Frostarm Lawachurl.
+# → 🪨 Liyue
+Halaman ini menampilkan 5 Boss yang bisa kamu hadapi di sini.
+- Geo Hypostasis.
+- Azhdaha.
+- Primo Geovishap.
+- Oceanid.
+- Ruin Serpent.
+# →⚡ Inazuma
+Halaman ini menampilkan 5 Boss kuat yang bisa kamu tantang di sini.
+- Raiden Shogun Puppet.
+- Thunder Manifestation.
+- Hydro Hypostasis.
+- Maguu Kenki.
+- Pyro Hypostasis.
+# → 🌿 Sumeru
+Halaman ini menampilkan 5 Boss kuat yang bisa kamu tantang di sini.
+- Scaramouche (The Shouki no Kami).
+- Dendro Regisvine.
+- Algorithm of Semi-Intransient Matrix of Overseer Network.
+- Setekh Wenut.
+- Consecrated Beast.
+# → 💧 Fontine
+Halaman ini menampilkan 4 Boss yang bisa kamu tantang di sini.
+- Icewind Suite.
+- Experimental Field Generator.
+- Emperor of Fire and Iron.
+- Armored Crab.
+# → 🔥 Natlan
+Halaman ini menampilkan 3 Boss yang bisa kamu tantang di sini.
+- Xiuhcoatl.
+- Gluttonous Yumkasaur Mountain King.
+- Goldflame Qucusaur Tyrant.
+# → ⭐ Target Boss
 Halaman ini menampilkan Boss yang sudah diberi tanda bintang dan otomatis masuk ke dalam menu ini. Fitur ini sangat membantu pemain untuk mengingat Boss mana saja yang sudah dipilih sebagai target dan akan dilawan berikutnya.
